@@ -1,0 +1,14 @@
+" vimrc
+
+syntax on
+colorscheme gruvbox
+set bg=dark
+set number
+set ruler
+set autoindent
+set textwidth=72
+
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set expandtab
