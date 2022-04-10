@@ -1,2 +1,3 @@
-# dotfiles
-BorkyBash's dot files
+# BorkyBash's DotFiles
+
+My dotfiles repo.
