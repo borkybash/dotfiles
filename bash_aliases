@@ -16,4 +16,4 @@ alias pip=pip3
 
 # Path Additions
 export PATH=$PATH:$HOME/.local/bin
-export PATH=$PATH:$HOME/repos/scripts
+export PATH=$PATH:$HOME/repos/github/scripts
